@@ -2,7 +2,7 @@
 
 Downloads every subject in this page 'http://panahian.ir/post/686' to 'dw' folder.
 
-You must have aria2c installed on Linux or aria2c.exe in you Path on Windows.
+You must have 'aria2c' installed on Linux or 'aria2c.exe' in your Path on Windows.
 
 requirements:
 
