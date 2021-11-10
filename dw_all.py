@@ -27,13 +27,13 @@ urls = dict()
 def load():
     global urls
 
-    urls = json.loads(pathlib.Path('urls.json').read_text())
+    urls = json.loads(pathlib.Path('urls.json.bk').read_text())
 
 
 def save():
     global urls
 
-    pathlib.Path('urls.json').write_text(json.dumps(urls))
+    pathlib.Path('urls.json.bk').write_text(json.dumps(urls))
 
 
 # %%
