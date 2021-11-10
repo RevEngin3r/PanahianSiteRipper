@@ -6,7 +6,7 @@ You must have 'aria2c' installed on Linux or 'aria2c.exe' in your Path on Window
 
 requirements:
 
-pip3 install RevUtilities
+pip3 install RevUtils
 
 
 
