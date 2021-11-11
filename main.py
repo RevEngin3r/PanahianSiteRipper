@@ -3,11 +3,10 @@ import bs4
 import requests
 import json
 import pathlib
-import time
 import subprocess as sp
 
-import RevUtilities.Logger as Rlog
-import RevUtilities.General as Rgen
+import RevUtils.Logger as Rlog
+import RevUtils.General as Rgen
 
 # %%
 
