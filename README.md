@@ -12,5 +12,5 @@ pip3 install RevUtils
 
 Usage:
 
-python3 dw_all.py
+python3 main.py
 
